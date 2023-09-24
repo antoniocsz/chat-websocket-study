@@ -1,0 +1,1 @@
+# Um pequeno projetinho estudando como fazer um chat usando  socket.io e react
